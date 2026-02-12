@@ -1,5 +1,6 @@
-# Ellucian Banner Process for 320 for the California Community College System
+# Ellucian Banner Process: 320 Process for the California Community College System
 # SVRCALD Student Data Processor
+# Extract exact FTES and other data from the 320 svrcald (detailed).lis files. Included is the ability to disaggregate by the different "flavors" of FTES which come with different funding($) rates.
 
 A Python GUI tool for parsing **Detailed SVRCALD** reports (`.lis` or `.txt`) from the California Community Colleges MIS system and extracting student-level FTES data into CSV format.
 
