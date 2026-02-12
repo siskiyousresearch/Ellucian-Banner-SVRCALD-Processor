@@ -1,3 +1,4 @@
+# Ellucian Banner Process for 320 for the California Community College System
 # SVRCALD Student Data Processor
 
 A Python GUI tool for parsing **Detailed SVRCALD** reports (`.lis` or `.txt`) from the California Community Colleges MIS system and extracting student-level FTES data into CSV format.
